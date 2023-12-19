@@ -48,13 +48,13 @@ public class ViewConsultaCliente extends javax.swing.JFrame {
 
         ConsultaClientes.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null, null, null},
-                {null, null, null, null, null, null},
-                {null, null, null, null, null, null},
-                {null, null, null, null, null, null}
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null},
+                {null, null, null, null}
             },
             new String [] {
-                "Modelo", "Placa", "Nome", "Sexo", "CPF", "Endereco"
+                "Id", "Nome", "Sexo", "CPF"
             }
         ));
         jScrollPane1.setViewportView(ConsultaClientes);
