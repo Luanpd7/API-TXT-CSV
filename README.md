@@ -20,7 +20,7 @@ O sistema atende a diferentes tipos de veículos e serviços onde é garantido u
     ![img cadastrar](/Screenshots/cadastrar.png)
     ![img consultar](/Screenshots/consultar.png)
 
-   ##### 2. Cadastrar Funcionário
+ ##### 2. Cadastrar Funcionário
 
     ![img cadastrar.funcionario](/Screenshots/cadastrar.funcionario.png)
 
