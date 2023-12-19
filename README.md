@@ -30,7 +30,7 @@ O sistema atende a diferentes tipos de veículos e serviços onde é garantido u
 
 4. #### Cadastrar Cliente
 
-    ![img cadastrar.cliente](/Screenshots/Cadastrar.cliente.png)
+    ![img cadastrar.cliente](/Screenshots/cadastrar.cliente.png)
 
 5. #### Consultar Cliente
 
