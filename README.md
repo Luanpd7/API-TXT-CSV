@@ -14,7 +14,13 @@ O sistema atende a diferentes tipos de veículos e serviços onde é garantido u
 - Gold
   
 ## Funcionalidades
- 1. Tela Principal
+1. #### Tela Principal
+
+    ![img tela.principal](/Screenshots/tela.principal.png)
+    ![img cadastrar](/Screenshots/cadastrar.png)
+    ![img consultar](/Screenshots/consultar.png)
+
+2. ##### Cadastrar Funcionário
     
     
  
