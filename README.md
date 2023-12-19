@@ -21,6 +21,35 @@ O sistema atende a diferentes tipos de veículos e serviços onde é garantido u
     ![img consultar](/Screenshots/consultar.png)
 
 2. ##### Cadastrar Funcionário
+
+    ![img cadastrar.funcionario](/Screenshots/cadastrar.funcionario.png)
+
+3. #### Consultar Funcionário
+
+    ![img consultar.funcionario](/Screenshots/consultar.funcionario.png)
+
+4. #### Cadastrar Cliente
+
+    ![img cadastrar.cliente](/Screenshots/Cadastrar.cliente.png)
+
+5. #### Consultar Cliente
+
+    ![img consultar.cliente](/Screenshots/consultar.cliente.png)
+
+6. #### Cadastrar Serviço
+
+    ![img cadastrar.servico](/Screenshots/cadastrar.servico.png)
+
+7. #### Consultar Serviço
+
+    ![img consultar.servico](/Screenshots/consultar.servico.png)
+
+8. #### Consultar Tipo de Seguro
+
+    ![img consultar.tipo.servico](/Screenshots/consultar.tipo.seguro.png)
+    
+
+   
     
     
  
