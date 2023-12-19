@@ -28,7 +28,7 @@ O sistema atende a diferentes tipos de veículos e serviços onde é garantido u
 
     ![img consultar.funcionario](/Screenshots/consultar.funcionario.png)
 
-4. #### Cadastrar Cliente
+4. #### Cadastrar Cliente/Veículo
 
     ![img cadastrar.cliente](/Screenshots/cadastrar.cliente.png)
 
@@ -49,6 +49,15 @@ O sistema atende a diferentes tipos de veículos e serviços onde é garantido u
     ![img consultar.tipo.servico](/Screenshots/consultar.tipo.seguro.png)
 
 ## Ferramentas
+IDE
+> Local
+
+Java
+> Linguagem de programção
+
+MySql Workbench
+> Banco
+
     
 
    
