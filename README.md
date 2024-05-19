@@ -1,67 +1,10 @@
-# SEGURO FÁCIL
-## Descrição
-[Bem-vindo] ao **Sistema de Gerenciamento de Seguradora**, um sistema com uma solução completa e sólida desenvolvida para transformar a maneira de como seguros de veículos são gerenciado. 
-O sistema atende a diferentes tipos de veículos e serviços onde é garantido uma opção adequada para cada cliente.
-### Tipos de veículos 
-- Automóveis
-- Motocicletas
-- Caminhões
-- Onibûs
-### Tipos de serviços de seguros
-- Padrão
-- Pro
-- Vip
-- Gold
-  
-## Funcionalidades
-1. #### Tela Principal
+# API para Importação e Exportação de Dados em MySQL Workbench #
+Esta API oferece uma maneira simples e eficiente de importar e exportar dados para o MySQL Workbench. Com ela, você pode facilmente importar dados de arquivos CSV e TXT para o seu banco de dados MySQL e exportar dados de suas tabelas para esses formatos também.
 
-    ![img tela.principal](/Screenshots/tela.principal.png)
-    ![img cadastrar](/Screenshots/cadastrar.png)
-    ![img consultar](/Screenshots/consultar.png)
+## Funcionalidades Principais ##
+Importação de Dados: Importe facilmente arquivos CSV e TXT para suas tabelas do MySQL Workbench. Isso permite uma maneira rápida de preencher seu banco de dados com grandes conjuntos de dados.
 
-2. ####  Cadastrar Funcionário
-
-    ![img cadastrar.funcionario](/Screenshots/cadastrar.funcionario.png)
-
-3. #### Consultar Funcionário
-
-    ![img consultar.funcionario](/Screenshots/consultar.funcionario.png)
-
-4. #### Cadastrar Cliente/Veículo
-
-    ![img cadastrar.cliente](/Screenshots/cadastrar.cliente.png)
-
-5. #### Consultar Cliente
-
-    ![img consultar.cliente](/Screenshots/consultar.cliente.png)
-
-6. #### Cadastrar Serviço
-
-    ![img cadastrar.servico](/Screenshots/cadastrar.servico.png)
-
-7. #### Consultar Serviço
-
-    ![img consultar.servico](/Screenshots/consultar.servico.png)
-
-8. #### Consultar Tipo de Seguro
-
-    ![img consultar.tipo.servico](/Screenshots/consultar.tipo.seguro.png)
-
-## Ferramentas
-
-Netbeans
-> Este projeto foi desenvolvido e testado no NetBeans, por ser uma IDE de codigo aberto e pela facilidade de fazer conexão entre a linguagem e o banco de dados.
-
-Maven
-> O Maven foi utilizado como sistema de gerenciamento de dependências e para a construção do projeto.
-
-Java
-> O projeto utiliza a linguagem de programação Java, organizando e estruturando o código com o padrão de design MVC.
-
-MySql Workbench
-> O projeto utiliza o banco de dados MySQL para armazenamento e manipulação de dados.
-
+Exportação de Dados: Exporte os dados de suas tabelas do MySQL Workbench para arquivos CSV e TXT. Isso é útil para realizar análises externas ou compartilhar dados com outros sistemas.
     
 
    
